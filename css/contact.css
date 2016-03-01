@@ -1,0 +1,61 @@
+header{
+	background:url('../image/large.jpg') no-repeat;
+    height: 46em;
+    background-position: top center;
+    text-align: center;
+    background-size:cover;
+    color:white;
+}
+
+.back-o{
+	background: rgba(0, 0, 0, 0.5);
+	height:46em;
+	width:100%;
+	padding:0;
+	margin:0;
+}
+.f-l{
+	float:left;
+}
+.mg{
+	margin:auto;
+}
+form{
+	margin:12% 25%;
+	color:black;
+	border-top:8px solid #0368b3;
+	float:none;
+	background-color:white;
+}
+button{
+	margin-left:6em;
+}
+.insert input{
+	margin-left:18em;
+}
+.text-right{
+	text-align:right;
+}
+.text-left{
+	text-align:left;
+}
+.form-horizontal .control-label {
+    text-align: left;
+    margin:0 0 0 2em;
+}
+span{
+	color:pink;
+}
+.fom{
+	border-bottom:1.2px solid gray;
+	margin-bottom:1em;
+	font-size:22px;
+	font-family: Dosis;
+}
+textarea{
+	padding-top:3%;
+}
+button{
+	background-color:#74a3db;
+	color:white;
+}
